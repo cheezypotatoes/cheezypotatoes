@@ -3,8 +3,8 @@
 I'm a second-year Computer Science student, and I make programs as a hobby
 
 ### Overview
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheezypotatoes&layout=donut-vertical&theme=gruvbox&size=small)](https://github.com/cheezypotatoes)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheezypotatoes&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/cheezypotatoes) 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheezypotatoes&layout=donut-vertical&theme=highcontrast)](https://github.com/cheezypotatoes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheezypotatoes&layout=compact&theme=highcontrast)
 
 ### Skills & Achievements
 #### Programming Languages
