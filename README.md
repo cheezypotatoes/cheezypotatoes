@@ -1,4 +1,6 @@
-## My GitHub Statistics
+# Hi there! 👋 I'm Jorge
+
+I'm a second-year Computer Science student, and I make programs as a hobby
 
 ### Overview
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheezypotatoes&layout=donut-vertical&theme=gruvbox&size=small)](https://github.com/cheezypotatoes)
