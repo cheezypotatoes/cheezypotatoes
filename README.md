@@ -1,7 +1,7 @@
 ## My GitHub Statistics
 
 ### Overview
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheezypotatoes&layout=donut-vertical&theme=tokyonight)](https://github.com/cheezypotatoes)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheezypotatoes&layout=donut-vertical&theme=gruvbox&size=small)](https://github.com/cheezypotatoes)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheezypotatoes&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/cheezypotatoes) 
 
 ### Skills & Achievements
