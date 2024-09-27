@@ -23,7 +23,6 @@ I'm a second-year Computer Science student, and I make programs as a hobby
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Pytube](https://img.shields.io/badge/Pytube-FF0000?style=flat-square&logo=pytube&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-4B8BBE?style=flat-square&logo=python&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-3B5998?style=flat-square&logo=websocket&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-FF6F20?style=flat-square&logo=python&logoColor=white)
 
 
