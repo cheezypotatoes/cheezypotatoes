@@ -20,6 +20,16 @@ I'm a second-year Computer Science student, and I make programs as a hobby
 #### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Pytube](https://img.shields.io/badge/Pytube-FF0000?style=flat-square&logo=pytube&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-3B5998?style=flat-square&logo=websocket&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-FF6F20?style=flat-square&logo=python&logoColor=white)
+
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 #### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
