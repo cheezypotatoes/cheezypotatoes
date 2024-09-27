@@ -9,10 +9,6 @@ I'm a second-year Computer Science student with a passion for programming as a h
   </a>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheezypotatoes&layout=compact&theme=highcontrast" alt="Top Languages" />
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs" alt="Harlok's WakaTime Stats" />
-  </a>
 </div>
 
 
