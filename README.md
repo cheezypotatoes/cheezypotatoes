@@ -5,10 +5,10 @@ I'm a second-year Computer Science student with a passion for programming as a h
 ### Overview
 <div style="display: flex; justify-content: space-around;">
   <a href="https://github.com/cheezypotatoes">
-    <img src="https://github-readme-stats.vercel.app/api?username=cheezypotatoes&show_icons=true&theme=highcontrast&hide_rank=true" alt="My GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cheezypotatoes&show_icons=true&theme=radical&hide_rank=true" alt="My GitHub Stats" />
   </a>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheezypotatoes&layout=compact&theme=highcontrast" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheezypotatoes&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 
