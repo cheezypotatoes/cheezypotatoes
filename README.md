@@ -3,7 +3,7 @@
 I'm a second-year Computer Science student with a passion for programming as a hobby.
 
 ### Overview
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   <a href="https://github.com/cheezypotatoes">
     <img src="https://github-readme-stats.vercel.app/api?username=cheezypotatoes&show_icons=true&theme=calm&hide_rank=true" alt="My GitHub Stats" />
   </a>
