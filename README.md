@@ -3,13 +3,14 @@
 I'm a second-year Computer Science student with a passion for programming as a hobby.
 
 ### Overview
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0 auto;">
   <a href="https://github.com/cheezypotatoes">
     <img src="https://github-readme-stats.vercel.app/api?username=cheezypotatoes&show_icons=true&theme=calm&hide_rank=true" alt="My GitHub Stats" />
   </a>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheezypotatoes&layout=compact&theme=calm" alt="Top Languages" />
 </div>
+
 
 
 ### Skills & Achievements
