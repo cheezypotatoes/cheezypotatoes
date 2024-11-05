@@ -29,6 +29,7 @@ I'm a second-year Computer Science student with a passion for programming as a h
 ![Pytube](https://img.shields.io/badge/Pytube-FF0000?style=flat-square&logo=pytube&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-4B8BBE?style=flat-square&logo=python&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-FF6F20?style=flat-square&logo=python&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 #### Databases
