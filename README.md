@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm **Jorge**
 
-I'm a second-year Computer Science student with a passion for programming as a hobby.
+I'm a third-year Computer Science student with a passion for programming as a hobby.
 
 ### Overview
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0 auto;">
