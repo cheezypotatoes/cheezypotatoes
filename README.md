@@ -44,3 +44,4 @@ I'm a second-year Computer Science student with a passion for programming as a h
 - **Certifications:**
   - CS50 Certification
   - Certiport Java Certification
+  - Certiport Database Certification
