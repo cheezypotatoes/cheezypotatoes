@@ -45,3 +45,4 @@ I'm a third-year Computer Science student with a passion for programming as a ho
   - CS50 Certification
   - Certiport Java Certification
   - Certiport Database Certification
+  - Certiport CyberSecurity Certification
