@@ -16,7 +16,7 @@
 | Role | Project | Since |
 |------|---------|-------|
 | 🔧 Plugin Developer | **Zoned** `(zoned.rip)` — 47,000+ users | Jul 2025 |
-| 🛠️ Co-Founder | **NetherForge Studio** — Custom plugin dev studio | Jul 2025 |
+| 🛠️ Plugin Developer | **NetherForge Studio** — Custom plugin dev studio | Jul 2025 |
 | ⚔️ Plugin Developer | **Unstable PvP** — Core gameplay systems | May 2026 |
 
 </div>
