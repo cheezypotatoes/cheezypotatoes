@@ -35,7 +35,7 @@
 ### 🟡 NetherForge Studio — *July 2025 – Present*
 > Custom Minecraft plugin development studio
 
-- Co-founded with a fellow developer to offer bespoke plugin solutions to server owners
+- Partnered with a fellow developer to offer custom plugin solutions to server owners
 
 ### 🟢 Unstable PvP — *May 2026 – Present*
 > Competitive PvP Minecraft server
