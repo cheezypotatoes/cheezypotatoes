@@ -55,7 +55,7 @@ I'm a third-year Computer Science student with a passion for programming as a ho
 Developed and maintained 22+ original and customized Minecraft plugins for a server with 47,000+ unique users. Modified third-party plugins to patch exploits and provided ongoing live-production support.
 
 **Developer – NetherForge Studio** *(July 2025 – Present)*
-Co-founded a custom Minecraft plugin development studio, partnering with a fellow developer to serve server owners.
+Developer on a custom Minecraft plugin development studio, partnering with a fellow developer to serve server owners.
 
 **Developer – Unstable PvP** *(May 2026 – Present)*
 Building core plugins that power the server's fundamental gameplay mechanics and player experience.
