@@ -35,6 +35,13 @@ I'm a third-year Computer Science student with a passion for programming as a ho
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-FF6F20?style=flat-square&logo=python&logoColor=white)
+![Spigot API](https://img.shields.io/badge/Spigot_API-ED8B00?style=flat-square&logo=minecraft&logoColor=white)
+![Paper API](https://img.shields.io/badge/Paper_API-F7DF1E?style=flat-square&logo=minecraft&logoColor=black)
+![Pufferfish API](https://img.shields.io/badge/Pufferfish_API-38B2AC?style=flat-square&logo=minecraft&logoColor=white)
+![Velocity](https://img.shields.io/badge/Velocity_Proxy-0096FF?style=flat-square&logo=minecraft&logoColor=white)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-16a34a?style=flat-square&logo=pterodactyl&logoColor=white)
+![Google Guice](https://img.shields.io/badge/Google_Guice-4285F4?style=flat-square&logo=google&logoColor=white)
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
