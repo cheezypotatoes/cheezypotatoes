@@ -1,6 +1,6 @@
 <div align="center">
 
-# `< Jorge />` 
+# `< Cache />` 
 ### Computer Science Student · Full-Stack Developer · Minecraft Plugin Dev
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=3rd+Year+CS+Student+%40+UMindanao;Nearly+4+years+of+programming+experience;Building+Minecraft+plugins+for+47k%2B+users;Self-taught+since+senior+high+school)
