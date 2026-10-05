@@ -22,7 +22,7 @@
 
 ## 💼 Freelancing
 
-### 🔴 Zoned `(zoned.rip)` — *July 2025 – Present*
+### 🔴 Zoned  (Now called Boxrealm) `(zoned.rip)` — *July 2025 – 2026*
 > A large-scale Minecraft network with **47,000+ unique players**
 
 - Developed and maintained **22+ original and customized plugins** in a live production environment
